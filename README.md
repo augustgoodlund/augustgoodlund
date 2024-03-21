@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @augustgoodlund
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Notes document
 
-<!---
-augustgoodlund/augustgoodlund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elements of .readme file: 
+Title - clearly expains the purpose of the repository, typically the name of the project + a heading tag. May also include project section titles.
+# Large heading
+## Medium heading
+###### Small heading
+
+Introduction/summary - two or three sentences
+Technologies - explains which languages and version of those languages were used. Also should include any libraries and technologies used.
+Look up GitHub basic writing and formatting syntax.
